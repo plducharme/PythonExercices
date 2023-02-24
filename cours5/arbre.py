@@ -4,7 +4,7 @@ class Noeud:
 
     def __init__(self, data):
         self.__data = data
-        self.__enfants = {}
+        self.__enfants = []
 
     @property
     def data(self):
