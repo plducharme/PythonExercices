@@ -1,4 +1,5 @@
-# Créer un arbre qui permet d'inserer une chaine de caractere
+# Créer un arbre qui permet d'insérer une chaine de caractères
+# Vous pouvez modifier comme bon vous semble
 
 class Noeud:
 
@@ -25,7 +26,6 @@ class Noeud:
 
 
 racine = Noeud('*')
-racine.imprimer_mots('')
 racine.ajout_mot('test')
 racine.ajout_mot('parapluie')
 racine.ajout_mot('paratonnerre')
