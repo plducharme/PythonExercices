@@ -52,7 +52,6 @@ class Book:
     # __sub__ : soustraction (-)
     # et encore plus...
 
-
     # Fonction d'affichage
     # cet fonction est appelée par certaines fonctions builtin de python comme print(), son but est d'être lisible
     # doit retourner une string
