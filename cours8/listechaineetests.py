@@ -1,7 +1,7 @@
-from listechainee import ListeChainee, Noeud
+from reponses.listechainee import ListeChainee, Noeud
 
-#noeuds = [Noeud(x) for x in [3, 7, 1, 2, 8, 9, 5, 14, 23, 12, 25, 45, 4]]
-noeuds = [Noeud(x) for x in [3, 7, 1]]
+noeuds = [Noeud(x) for x in [3, 7, 1, 2, 8, 9, 5, 14, 23, 12, 25, 45, 4]]
+#noeuds = [Noeud(x) for x in [3, 7, 1]]
 
 
 lc = ListeChainee(noeuds)
