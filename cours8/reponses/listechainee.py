@@ -55,6 +55,7 @@ class ListeChainee:
         while noeud.next is not None:
             yield noeud
             noeud = noeud.next
+        yield noeud
 
     def ajout_fin(self, data):
         if self.tete is None:
