@@ -49,6 +49,7 @@ for tri in tris:
     print('Initial: [ ' + out + ' ]')
     print('Tri' + str(tri.__class__))
     tri.trier(devs)
+    out = ''
     for dev in devs:
         out += repr(dev)
     print('Resultat: [ ' + out + ' ]\n')
