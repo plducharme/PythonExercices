@@ -14,3 +14,8 @@ Exercices
 - Pour chaque tri, ajouter un compteur pour garder le nombre de comparaisons
 - Pour chaque tri, ajouter un compteur pour garder le nombre d'échanges
 - Ajouter un compteur de temps pour l'exécution de l'algorithme
+
+- Dans le fichier station_comptage.py
+  - Implémenter \__repr__(self)
+- Modifier tris.py au besoin pour pouvoir trier les "comptage" dans chaque StationComptage
+  - Arranger votre code pour que les méthodes de tris s'appliquent aux Developeur et aux StationComptage
