@@ -1,0 +1,7 @@
+- Implémenter un tas minimal
+  - implémenter l'ajout d'un élément
+  - implémenter le retrait d'un élément
+  - implémenter le remplacement d'un élément
+- Implémenter le tri par tas
+  - méthode trier(tableau)
+  - méthode tamisage_max(tableau, taille, index)

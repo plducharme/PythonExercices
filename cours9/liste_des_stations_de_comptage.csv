@@ -1,0 +1,32 @@
+id_station,nom_station,nom_vas,latitude,longitude
+P01,de la Commune / Place Jacques Cartier,de la Commune,45.507153,-73.552102
+P02,Mt-Royal / de la Roche,Mt-Royal,45.528653,-73.578567
+P03,Mt-Royal / Papineau,Mt-Royal,45.532827,-73.574594
+P04,Mt-Royal / St-Denis,Mt-Royal,45.523708,-73.583149
+P05,Mt-Royal / St-Laurent ,Mt-Royal,45.520244,-73.586180
+P06,Ontario / Nicolet ,Ontario,45.546242,-73.544045
+P07,Sherbrooke  /  Pie-IX ,Rachel/Sherbrooke,45.557442,-73.554423
+P08,St Catherine / Stanley,St Catherine,45.499572,-73.573379
+P09,Villeray / Berri,Villeray,45.541660,-73.622556
+P10,Wellington / Galt,Wellington,45.461498,-73.567138
+P11,Wellington / Rielle ,Wellington,45.460541,-73.567300
+P12,Mt-Royal / de la Roche,Mt-Royal Trottoir uniquement,45.528653,-73.578567
+P13,Mt-Royal / Papineau,Mt-Royal Trottoir uniquement,45.532827,-73.574594
+P14,Mt-Royal / St-Denis,Mt-Royal Trottoir uniquement,45.523708,-73.583149
+P15,Ontario / Nicolet ,Ontario Trottoir uniquement,45.546242,-73.544045
+P16,St Catherine / Stanley,St Catherine Trottoir uniquement,45.499572,-73.573379
+P17,Wellington / Galt,Wellington Trottoir uniquement,45.461498,-73.567138
+P18,Wellington / Rielle ,Wellington Trottoir uniquement,45.460541,-73.567300
+V01,Emile-Journault / Christophe-Colomb,Emile-Journault,45.555780,-73.636960
+V02,Bellechasse / Christophe-Colomb,Bellechasse,45.536040,-73.598505
+V03,Berri / Ontario,Berri,45.533446,-73.591657
+V04,Christophe-Colomb / Louvain,Christophe-Colomb,45.558360,-73.647180
+V05,Christophe-Colomb / Rosemont ,Christophe-Colomb,45.534683,-73.593987
+V06,Christophe-Colomb / Saint-Joseph,Christophe-Colomb,45.529995,-73.583512
+V07,Christophe-Colomb / St-Grégoire,Christophe-Colomb,45.533325,-73.591704
+V08,de la Roche / Saint-Joseph,Christophe-Colomb,45.530600,-73.582399
+V09,Gouin / Rue des Jésuites,Gouin,45.569479,-73.660392
+V10,Parc Lafontaine Ouest / Rachel,Christophe-Colomb,45.524879,-73.573418
+V11,Rachel / Dézéry,Rachel/Sherbrooke,45.544419,-73.561262
+V12,Sherbrooke / Pie-IX ,Rachel/Sherbrooke,45.555980,-73.554540
+V13,Villeray / Berri,Villeray,45.541924,-73.622396

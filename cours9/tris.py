@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
 from developeur import Developeur
+from station_comptage import *
 
 
 class Tri(ABC):
@@ -49,9 +50,17 @@ for tri in tris:
     print('Initial: [ ' + out + ' ]')
     print('Tri' + str(tri.__class__))
     tri.trier(devs)
+    out = ''
     for dev in devs:
         out += repr(dev)
     print('Resultat: [ ' + out + ' ]\n')
+
+
+for tri in tris:
+    stations = StationComptage.from_csv()
+    for k, v in stations.items():
+        tri.trier(v.comptage)
+
 
 
 
