@@ -8,10 +8,10 @@
       1) Le numéro de produit doit être entre 1 et 50  
    2) la quantité devrait se situer entre 1 et 15
    3) la date devrait être celle courante (datetime)
-3) Créer une méthode qui sérialise la liste d'objets dans un fichier
-4) Créer une méthode qui désérialise la liste d'objets
-5) Créer une méthode pour sérialiser les objets dans leur fichier individuel
-6) Créer une méthode pour désérialiser les objets à partir de leur fichier individuel
+3) Créer une méthode pour sérialiser les objets dans leur fichier individuel
+4) Créer une méthode pour désérialiser les objets à partir de leur fichier individuel
+5) Créer une méthode qui sérialise la liste d'objets dans un fichier
+6) Créer une méthode qui désérialise la liste d'objets
 7) Créer une méthode pour mettre à jour sur disque un objet sérialisé
 
 
