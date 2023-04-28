@@ -1,7 +1,7 @@
 # JSON
 - Créer la classe représentant une auto basée sur le fichier cars.json (https://github.com/vega/vega/blob/main/docs/data/cars.json)
 - Lire le fichier cars.json pour retourner la liste d'autos et créer les objets correspondants
-- Trier les autos en ordre croissant de consommation (Miles_per_Gallon) en utilisant un tri par insertion
+- (optionel) Trier les autos en ordre croissant de consommation (Miles_per_Gallon) en utilisant un tri par insertion
 - Écrire la liste triée dans le fichier autos.json
 
 # CSV
